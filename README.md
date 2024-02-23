@@ -1,1 +1,2 @@
-# recommended_CIS_books
+# Recommended CIS books
+* Designing Data-Intensive Applications by Martin Kleppmann
