@@ -5,5 +5,5 @@
 * Operating System Concepts, silberschatz et. al.
 
 ## Development and Programming
-* Eloquent JavaScript: A Modern Introduction to Programming, Marijn Haverbeke
+* Eloquent JavaScript: A Modern Introduction to Programming, Marijn Haverbeke [PDF](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf)
 * Refactoring- improving the design of existing code,  Martin Fowler
