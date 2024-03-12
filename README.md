@@ -1,4 +1,5 @@
 # Recommended CIS books
+Here's a short list of books that keep popping up on my social media, each mentioned at least three times. Some I've read, some are popular among my friends. I'm sharing it here for my own reading reference and for anyone else who's interested. Just so you know, I'm not taking book recommendations through messages. I'll only add books here that keep showing up on my social feeds.
 ## Computer Science
 * Designing Data-Intensive Applications by Martin Kleppmann
 * Introduction to Statistical Learning, with applications in Python, Greth Games et. al.
