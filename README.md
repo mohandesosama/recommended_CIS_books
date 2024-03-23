@@ -9,3 +9,4 @@ Here's a short list of books that keep popping up on my social media, each menti
 ## Development and Programming
 * Eloquent JavaScript: A Modern Introduction to Programming, Marijn Haverbeke [PDF](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf)
 * Refactoring- improving the design of existing code,  Martin Fowler
+* learn python programming, fabrizio romano
