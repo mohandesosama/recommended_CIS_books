@@ -5,6 +5,8 @@ Here's a short list of books that keep popping up on my social media, each menti
 * Introduction to Statistical Learning, with applications in Python, Greth Games et. al.
 * Operating System Concepts, silberschatz et. al.
 * Advanced Algorithms and Data Structures, Marcello La Rocca [PDF](https://chengzhaoxi.xyz/download/pdf/book/Advanced-Algorithms-and-Data-Structures.pdf)
+* Grokking Algorithms, An illustrated guide for programmers and other curious people, Aditya Y. Bhargava
+* Algorithms Unplugged, Berthold Vöcking, Helmut Alt, Martin Dietzfelbinger 
 
 ## Development and Programming
 * Eloquent JavaScript: A Modern Introduction to Programming, Marijn Haverbeke [PDF](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf)
