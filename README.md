@@ -14,6 +14,6 @@ Here's a short list of books that keep popping up on my social media, each menti
 * Algorithms Unplugged, Berthold Vöcking, Helmut Alt, Martin Dietzfelbinger 
 
 ## Programming and Development
-* Object-Oriented Thought Process, Matt Weisfeld
+* Object-Oriented Thought Process, Matt Weisfeld [x]
 * Refactoring- improving the design of existing code,  Martin Fowler
 * Learn Python Programming - Second Edition: The no-nonsense, beginner's guide to programming, data science, and web development with Python 3.7 2nd ed. Edition, fabrizio romano [PDF](https://muzzaffarpur.kvs.ac.in/sites/default/files/Python-ProgrammingBook.pdf)
