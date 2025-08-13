@@ -4,7 +4,7 @@ Here's a short list of books that keep popping up on my social media, each menti
 ### Data
 * Designing Data-Intensive Applications by Martin Kleppmann
 ### Maths, Statistics and Machine Learning
-* Introduction to Statistical Learning, with applications in Python, Greth Games et. al.[PDF]([https://drive.google.com/file/d/1J2ZZhHB2K-IAttgsfXvlwVXqJK_QI-El/view?usp=drive_link](https://drive.google.com/file/d/1J2ZZhHB2K-IAttgsfXvlwVXqJK_QI-El/view?usp=sharing)
+* Introduction to Statistical Learning, with applications in Python, Greth Games et. al.[PDF](https://drive.google.com/file/d/1J2ZZhHB2K-IAttgsfXvlwVXqJK_QI-El/view?usp=sharing)
 * Alice’s Adventures in a Differentiable Wonderland A primer on designing neural networks, Simone Scardapane [PDF](https://arxiv.org/pdf/2404.17625)
 * Probabilistic machine learning": a book series by Kevin Murphy [Github repo](https://github.com/probml/pml-book)
 ### Operating Systems
